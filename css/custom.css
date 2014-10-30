@@ -8,14 +8,11 @@ nav#myNavbar.navbar.navbar-default.navbar-fixed-top {
 	background: #4D4E46;
 	border-bottom-width: 0px;
 }
-
 div.jumbotron {
 	background: #888a89;
-}i
-
+}
 .navbar-default .navbar-nav > li > a {
-    /* color: #E5CA7D; */
-	color: #d3d3d3;   /* #B3B082; */
+	color: #d3d3d3;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -24,7 +21,6 @@ div.jumbotron {
 
 .thumbnail {
 	background-color: #646560;
-	/* border:3px solid white; */
 	border:0 none;
 	border-radius: 0;  
 }
@@ -32,4 +28,3 @@ div.jumbotron {
 a {
 	color: #d3d3d3;
 }
-
